@@ -1,0 +1,8 @@
+- Learned YOLO object detection workflow.
+- Learned dataset structure (train, valid, test).
+- Learned how data.yaml works.
+- Learned how to train YOLOv11 in Google Colab.
+- Learned precision, recall, F1 score and mAP.
+- Learned how confusion matrices are used.
+- Learned how to save and reuse trained weights.
+- Learned GitHub project organization.
